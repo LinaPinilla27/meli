@@ -1,0 +1,11 @@
+{
+    "name": "meli",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "concurrently \"cd meli_frontend && npm run dev\" \"cd meli_backend && npm start\""
+    },
+    "dependencies": {
+        "concurrently": "^8.2.2",
+        "express": "^4.17.1"
+    }
+}
