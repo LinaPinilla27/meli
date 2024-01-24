@@ -16,6 +16,6 @@ cd meli_frontend
 npm install
 
 # En la raiz podras corras el proyecto
-cd meli 
+cd meli y npm install
 # Correr proyecto
 npm run dev
