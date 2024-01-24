@@ -15,7 +15,7 @@ cd meli_frontend
 # Instalando dependencias en frontend
 npm install
 
-
-cd meli en la raiz podras corras el proyecto
+# En la raiz podras corras el proyecto
+cd meli 
 # Correr proyecto
 npm run dev
