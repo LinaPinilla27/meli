@@ -1,7 +1,7 @@
 # React + Vite + NodeJS + Tailwind
 
 # Clonando el respositorio
-git clone  https://github.com/Chapullin/frontend-test-mercado-libre.git
+git clone  https://github.com/LinaPinilla27/meli.git
 
 # Navegacion a la carpeta backend
 cd meli_backend
